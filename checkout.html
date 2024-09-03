@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/responsivestyle.css">
+    <link rel="stylesheet" href="../styles/style.css">
+    <link href="../styles/checkoutStyle.css" rel="stylesheet" type="text/css" />
+    <title>Checkout</title>
+    <script src="../scripts/script.js" defer></script>
+</head>
+<body>
+    <div class="homePage" id="homePage">
+        <!-- NAGIGATION -->
+        <!-- NAGIGATION -->
+        <!-- NAGIGATION -->
+  
+        <nav class="nav" id="nav">
+          <div class="navPart1" id="navPar1">
+            <a href="index.html" class="navLinkLogo" id="navLinkLogo">
+              <img
+                src="../imgs/logoImg.jpg"
+                alt="shopLogo"
+                class="navLogo"
+                id="navLogo"
+              />
+            </a>
+            <a href="index.html" class="navLink navLink1" id="navLink"
+              >E-commerce</a
+            >
+            <div class="navPart1Inside">
+              <button
+                onclick="window.location.href='index.html';"
+                class="navLink navLink2"
+              >
+                Home
+              </button>
+              <button
+                onclick="window.location.href='itemsPage.html';"
+                href="itemsPage.html"
+                class="navLink navLink3"
+              >
+                View Products
+              </button>
+            </div>
+          </div>
+          <div class="navPart3" id="navPar3">
+              <button
+              class="navIconButton"
+              id="iconButton"
+              onclick="window.location.href='cart.html';"
+            >
+              <?xml version="1.0" ?><svg
+                class="navCartIcon"
+                baseProfile="tiny"
+                height="24px"
+                version="1.2"
+                viewBox="0 0 24 24"
+                xml:space="preserve"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+              >
+                <g id="Layer_1">
+                  <g>
+                    <path
+                      d="M20.756,5.345C20.565,5.126,20.29,5,20,5H6.181L5.986,3.836C5.906,3.354,5.489,3,5,3H2.75c-0.553,0-1,0.447-1,1    s0.447,1,1,1h1.403l1.86,11.164c0.008,0.045,0.031,0.082,0.045,0.124c0.016,0.053,0.029,0.103,0.054,0.151    c0.032,0.066,0.075,0.122,0.12,0.179c0.031,0.039,0.059,0.078,0.095,0.112c0.058,0.054,0.125,0.092,0.193,0.13    c0.038,0.021,0.071,0.049,0.112,0.065C6.748,16.972,6.87,17,6.999,17C7,17,18,17,18,17c0.553,0,1-0.447,1-1s-0.447-1-1-1H7.847    l-0.166-1H19c0.498,0,0.92-0.366,0.99-0.858l1-7C21.031,5.854,20.945,5.563,20.756,5.345z M18.847,7l-0.285,2H15V7H18.847z M14,7    v2h-3V7H14z M14,10v2h-3v-2H14z M10,7v2H7C6.947,9,6.899,9.015,6.852,9.03L6.514,7H10z M7.014,10H10v2H7.347L7.014,10z M15,12v-2    h3.418l-0.285,2H15z"
+                    />
+                    <circle cx="8.5" cy="19.5" r="1.5" />
+                    <circle cx="17.5" cy="19.5" r="1.5" />
+                  </g>
+                </g>
+              </svg>
+              <span id="cartBadge" class="cartBadge">0</span>
+            </button>
+            
+            <button class="logIn" id="logIn" onclick="window.location.href='login.html'">Log in</button>
+            <button class="signIn" id="signIn" onclick="window.location.href='signup.html'">Sign Up</button>
+          </div>
+        </nav>
+      </div>
+    <div class="container">
+        <div class="checkout-section">
+            <div class="col">
+                <h3>Contact</h3>
+                <div class="contact-input">
+                    <input type="email" id="email" name="email" placeholder="Email" />
+                    <div id="email-error" class="error-message">Enter a valid email address</div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <input type="checkbox" id="email-me" name="email-me" />
+                        <label for="email-me">Email me with news and offers</label>
+                    </div>
+                </div>
+                <div class="row">
+                    <h3>Delivery</h3>
+                </div>
+                <div class="row">
+                    <div class="radio-option">
+                        <input id="shipping" type="radio" name="delivery" checked/>
+                        <label for="shipping">Shipping</label>
+                    </div>
+                    <div class="radio-option">
+                        <input id="pickup" type="radio" name="delivery" />
+                        <label for="pickup">Pickup in store</label>
+                    </div>
+                </div>
+                <form id="shipping-form">
+                    <div class="row">
+                        <select id="country" aria-placeholder="Country/Region*" required>
+                        </select>
+                    </div>
+                    <div class="row">
+                        <div class="col-half">
+                            <input type="text" id="fname" name="fname" placeholder="First Name*" required/>
+                            <input type="text" id="lname" name="lname" placeholder="Last Name*" required/>
+                        </div>
+                        <div class="col-half">
+                            <div id="fname-error" class="error-message">Enter your first name</div>
+                            <div id="lname-error" class="error-message">Enter your last name</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <input type="text" id="company" name="company" placeholder="Company (optional)" />
+                    </div>
+                    <div class="row">
+                        <input type="text" id="address" name="address" placeholder="Address*" required/>
+                        <div id="address-error" class="error-message">Enter your address</div>
+                    </div>
+                    <div class="row">
+                        <div class="phoneContainer">
+                        <span id="phoneCode"></span>
+                        <input type="tel" id="phone" name="phone" placeholder="Phone Number*" required/>
+                        </div>
+                        <div id="phone-error" class="error-message">Enter a valid phone number</div>
+                    </div>
+                    <div class="row">
+                        <h3>Shipping Method</h3>
+                    </div>
+                    <div class="row">
+                        <div class="info">
+                            <div id="shippingInfo"></div> 
+                        </div>
+                    </div>
+                </form>
+                <div id="pickup-info">
+                    You are welcomed in our store in Beirut, Lebanon.
+                </div>
+                <div class="row">
+                    <h3>Select a Payment Method</h3>
+                </div>
+                <div class="row">
+                    <h4>All transactions are secure and encrypted</h4>
+                </div>
+                <div class="row">
+                    <div class="payment-section">
+                        <div class="payment-options">
+                            <div class="payment-option" onclick="selectPaymentMethod(this, 'cash-on-delivery')">
+                                <img src="../images/cod.png" alt="COD" />
+                            </div>
+                            <div class="payment-option" onclick="selectPaymentMethod(this, 'credit-card')">
+                                <img src="../images/visaCard.png" alt="Credit Card" />
+                            </div>
+                            <div class="payment-option" onclick="selectPaymentMethod(this, 'master-card')">
+                                <img src="../images/masterCard.png" alt="master-card" />
+                            </div>
+                            <div class="payment-option" onclick="selectPaymentMethod(this, 'paypal')">
+                                <img src="../images/paypal.png" alt="PayPal" />
+                            </div>
+                            <div class="payment-option" onclick="selectPaymentMethod(this, 'OMT')">
+                                <img src="../images/OMT.png" alt="OMT" />
+                            </div>
+                            <div id="payment-error" class="error-message">Enter a Payment Method</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <h3>Billing Address</h3>
+                </div>
+                <div id="billingOptions">
+                    <div class="radio-option">
+                        <input type="radio" name="billingAddress" id="sameAsShipping" checked/>
+                        <label for="sameAsShipping">Same as Shipping Address</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" name="billingAddress" id="differentBilling" />
+                        <label for="differentBilling">Please provide an alternate address</label>
+                    </div>
+                </div>
+                <form id="billingAddressForm">
+                    <div class="row">
+                        <select id="billingCountry" aria-placeholder="Country/Region*" required>
+                        </select>
+                    </div>
+                    <div class="row">
+                        <div class="col-half">
+                            <input type="text" id="billingFname" name="billingFname" placeholder="First Name*" required/>
+                            <input type="text" id="billingLname" name="billingLname" placeholder="Last Name*" required/>
+                        </div>
+                        <div class="col-half">
+                        <div id="billingFname-error" class="error-message">Enter your first name</div>
+                        <div id="billingLname-error" class="error-message">Enter your last name</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <input type="text" id="billingCompany" name="billingCompany" placeholder="Company (optional)" />
+                    </div>
+                    <div class="row">
+                        <input type="text" id="billingAddress" name="billingAddress" placeholder="Address*" required/>
+                        <div id="billingAddress-error" class="error-message">Enter your address</div>
+                    </div>
+                    <div class="row">
+                        <div class="phoneContainer">
+                            <span id="phoneCountryCode"></span>
+                            <input type="tel" id="billingPhone" name="phone"  placeholder="Phone Number*" required/>
+                        </div>
+                        <div id="billingPhone-error" class="error-message">Enter a valid phone number</div>
+                    </div>
+                </form>
+                <button type="submit" id="submitButton" class="completeButton">Complete Order</button>
+            </div>
+            <div class="order-summary">
+                <div class="row">
+                    <ul id="ordered-products">
+                    </ul>
+                </div>
+                <div class="bill-info">
+                <div class="row">
+                    <p>Shipping: <span id="shippingMethod"></span></p>
+                </div>
+                <div class="row">
+                    <p>Subtotal: <span id="subtotal"></span></p>
+                </div>
+                <div class="row">
+                    <p>Total: <span id="total"></span></p>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- footer part -->
+    <section class="footer" id="footer">
+    </section>
+    <script src="../scripts/checkoutScript.js"></script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PROD031",
+    "name": "Logitech MX Keys",
+    "type": "Keyboard",
+    "price": 99.99,
+    "description": "Wireless Illuminated Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD032",
+    "name": "Corsair K95 RGB Platinum XT",
+    "type": "Keyboard",
+    "price": 199.99,
+    "description": "Mechanical Gaming Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD033",
+    "name": "Razer BlackWidow V3 Pro",
+    "type": "Keyboard",
+    "price": 229.99,
+    "description": "Wireless Mechanical Gaming Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD034",
+    "name": "SteelSeries Apex Pro",
+    "type": "Keyboard",
+    "price": 199.99,
+    "description": "Mechanical Gaming Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD035",
+    "name": "Apple Magic Keyboard",
+    "type": "Keyboard",
+    "price": 99.99,
+    "description": "Wireless Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD036",
+    "name": "Microsoft Surface Keyboard",
+    "type": "Keyboard",
+    "price": 99.99,
+    "description": "Wireless Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD037",
+    "name": "Das Keyboard 4 Professional",
+    "type": "Keyboard",
+    "price": 169.99,
+    "description": "Mechanical Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD038",
+    "name": "Logitech G915 TKL",
+    "type": "Keyboard",
+    "price": 229.99,
+    "description": "Wireless Mechanical Gaming Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD039",
+    "name": "Keychron K6",
+    "type": "Keyboard",
+    "price": 69.99,
+    "description": "Wireless Mechanical Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD040",
+    "name": "HyperX Alloy Origins Core",
+    "type": "Keyboard",
+    "price": 89.99,
+    "description": "Mechanical Gaming Keyboard",
+    "image": "../imgs/motivationImg.jpg"
+  }
+]

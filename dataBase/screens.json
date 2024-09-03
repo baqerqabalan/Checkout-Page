@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PROD071",
+    "name": "Dell UltraSharp U2720Q",
+    "type": "Screen",
+    "price": 499.99,
+    "description": "27-inch 4K UHD USB-C Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD072",
+    "name": "LG 27GN950-B",
+    "type": "Screen",
+    "price": 799.99,
+    "description": "27-inch 4K UHD Nano IPS Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD073",
+    "name": "Samsung Odyssey G7",
+    "type": "Screen",
+    "price": 699.99,
+    "description": "32-inch QHD 240Hz Curved Gaming Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD074",
+    "name": "ASUS ProArt PA278QV",
+    "type": "Screen",
+    "price": 349.99,
+    "description": "27-inch WQHD Professional Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD075",
+    "name": "Acer Predator XB273K",
+    "type": "Screen",
+    "price": 999.99,
+    "description": "27-inch 4K UHD Gaming Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD076",
+    "name": "BenQ PD3220U",
+    "type": "Screen",
+    "price": 1199.99,
+    "description": "32-inch 4K UHD Professional Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD077",
+    "name": "ViewSonic VP3881",
+    "type": "Screen",
+    "price": 899.99,
+    "description": "38-inch WQHD+ Curved Professional Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD078",
+    "name": "HP Omen X 27",
+    "type": "Screen",
+    "price": 649.99,
+    "description": "27-inch QHD 240Hz Gaming Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD079",
+    "name": "Gigabyte AORUS FI27Q-X",
+    "type": "Screen",
+    "price": 699.99,
+    "description": "27-inch QHD 240Hz Gaming Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD080",
+    "name": "Philips Brilliance 499P9H",
+    "type": "Screen",
+    "price": 1299.99,
+    "description": "49-inch Dual QHD Curved Monitor",
+    "image": "../imgs/motivationImg.jpg"
+  }
+]

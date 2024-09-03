@@ -1,0 +1,92 @@
+[
+  {
+    "id": "OFFR001",
+    "name": "Dell XPS 13",
+    "discount_percentage": 10,
+    "original_price": 999.99,
+    "price": 899.99,
+    "description": "Save 10% on the Dell XPS 13. Limited time offer!",
+    "image": "../images/dell.jpg"
+  },
+  {
+    "id": "OFFR002",
+    "name": "Sony WH-1000XM4",
+    "discount_percentage": 15,
+    "original_price": 349.99,
+    "price": 297.49,
+    "description": "Get 15% off on Sony WH-1000XM4. Don't miss out!",
+    "image": "../images/sony.jpeg"
+  },
+  {
+    "id": "OFFR003",
+    "name": "Logitech MX Keys",
+    "discount_percentage": 20,
+    "original_price": 99.99,
+    "price": 79.99,
+    "description": "Enjoy 20% off on Logitech MX Keys. Limited stock!",
+    "image": "../imgs/keyboard.jpg"
+  },
+  {
+    "id": "OFFR004",
+    "name": "Corsair Dark Core RGB/SE",
+    "discount_percentage": 25,
+    "original_price": 89.99,
+    "price": 67.49,
+    "description": "25% discount on Corsair Dark Core RGB/SE. Buy now!",
+    "image": "../imgs/mouse.jpeg"
+  },
+  {
+    "id": "OFFR005",
+    "name": "SteelSeries QcK",
+    "discount_percentage": 30,
+    "original_price": 9.99,
+    "price": 6.99,
+    "description": "Get 30% off on SteelSeries QcK. Best deal!",
+    "image": "../images/steelseries.jpeg"
+  },
+  {
+    "id": "OFFR006",
+    "name": "Bose Companion 2 Series III",
+    "discount_percentage": 12,
+    "original_price": 99.99,
+    "price": 87.99,
+    "description": "Save 12% on Bose Companion 2 Series III. Limited offer!",
+    "image": "../images/bose.jpeg"
+  },
+  {
+    "id": "OFFR007",
+    "name": "Corsair Vengeance LPX 16GB",
+    "discount_percentage": 18,
+    "original_price": 79.99,
+    "price": 65.59,
+    "description": "18% off on Corsair Vengeance LPX 16GB. Grab it now!",
+    "image": "../images/corsair.jpeg"
+  },
+  {
+    "id": "OFFR008",
+    "name": "Dell UltraSharp U2720Q",
+    "discount_percentage": 20,
+    "original_price": 499.99,
+    "price": 399.99,
+    "description": "20% off on Dell UltraSharp U2720Q. Limited time!",
+    "image": "../images/ultrasharp.jpeg"
+  },
+  {
+    "id": "OFFR009",
+    "name": "HP Pavilion Gaming Desktop",
+    "discount_percentage": 15,
+    "original_price": 799.99,
+    "price": 679.99,
+    "description": "15% off on HP Pavilion Gaming Desktop. Buy now!",
+    "image": "../images/pavilion.jpeg"
+  },
+  {
+    "id": "OFFR010",
+    "name": "Apple AirPods Max",
+    "discount_percentage": 10,
+    "original_price": 549.99,
+    "price": 494.99,
+    "description": "10% off on Apple AirPods Max. Limited offer!",
+    "image": "../images/airpods.jpeg"
+  }
+]

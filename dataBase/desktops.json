@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PROD011",
+    "name": "Dell XPS Tower",
+    "type": "Desktop",
+    "price": 999.99,
+    "description": "Intel Core i7, 16GB RAM, 512GB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD012",
+    "name": "HP Pavilion Gaming Desktop",
+    "type": "Desktop",
+    "price": 799.99,
+    "description": "AMD Ryzen 5, 8GB RAM, 256GB SSD, GTX 1660 Super",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD013",
+    "name": "Apple iMac 27-inch",
+    "type": "Desktop",
+    "price": 1799.99,
+    "description": "Intel Core i5, 8GB RAM, 256GB SSD, Retina 5K Display",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD014",
+    "name": "Lenovo ThinkCentre M720",
+    "type": "Desktop",
+    "price": 649.99,
+    "description": "Intel Core i5, 8GB RAM, 256GB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD015",
+    "name": "Acer Predator Orion 3000",
+    "type": "Desktop",
+    "price": 1199.99,
+    "description": "Intel Core i7, 16GB RAM, 512GB SSD, RTX 2060",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD016",
+    "name": "ASUS ROG Strix G15CK",
+    "type": "Desktop",
+    "price": 1299.99,
+    "description": "Intel Core i7, 16GB RAM, 1TB SSD, RTX 3070",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD017",
+    "name": "CyberPowerPC Gamer Supreme",
+    "type": "Desktop",
+    "price": 1499.99,
+    "description": "AMD Ryzen 7, 16GB RAM, 1TB SSD, RTX 3080",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD018",
+    "name": "MSI Trident 3",
+    "type": "Desktop",
+    "price": 999.99,
+    "description": "Intel Core i5, 8GB RAM, 512GB SSD, GTX 1660",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD019",
+    "name": "Corsair One i160",
+    "type": "Desktop",
+    "price": 3499.99,
+    "description": "Intel Core i9, 32GB RAM, 1TB SSD, RTX 2080 Ti",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD020",
+    "name": "Alienware Aurora R12",
+    "type": "Desktop",
+    "price": 1899.99,
+    "description": "Intel Core i7, 16GB RAM, 1TB SSD, RTX 3070",
+    "image": "../imgs/motivationImg.jpg"
+  }
+]

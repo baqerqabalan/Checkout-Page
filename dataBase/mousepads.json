@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PROD061",
+    "name": "SteelSeries QcK",
+    "type": "Mousepad",
+    "price": 9.99,
+    "description": "Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD062",
+    "name": "Corsair MM800 RGB Polaris",
+    "type": "Mousepad",
+    "price": 59.99,
+    "description": "RGB Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD063",
+    "name": "Razer Goliathus Extended Chroma",
+    "type": "Mousepad",
+    "price": 49.99,
+    "description": "RGB Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD064",
+    "name": "Logitech G640",
+    "type": "Mousepad",
+    "price": 39.99,
+    "description": "Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD065",
+    "name": "HyperX Fury S",
+    "type": "Mousepad",
+    "price": 19.99,
+    "description": "Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD066",
+    "name": "Glorious 3XL Extended",
+    "type": "Mousepad",
+    "price": 49.99,
+    "description": "Extended Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD067",
+    "name": "Cooler Master MP510",
+    "type": "Mousepad",
+    "price": 29.99,
+    "description": "Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD068",
+    "name": "ASUS ROG Sheath",
+    "type": "Mousepad",
+    "price": 34.99,
+    "description": "Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD069",
+    "name": "Corsair MM350 PRO",
+    "type": "Mousepad",
+    "price": 29.99,
+    "description": "Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD070",
+    "name": "Razer Sphex V3",
+    "type": "Mousepad",
+    "price": 14.99,
+    "description": "Gaming Mousepad",
+    "image": "../imgs/motivationImg.jpg"
+  }
+]

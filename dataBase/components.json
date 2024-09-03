@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PROD001",
+    "name": "Corsair Vengeance LPX 16GB",
+    "type": "RAM",
+    "price": 79.99,
+    "description": "DDR4 3200MHz Desktop Memory", 
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD002",
+    "name": "Samsung 970 EVO Plus 1TB",
+    "type": "SSD",
+    "price": 169.99,
+    "description": "NVMe M.2 Internal SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD003",
+    "name": "EVGA GeForce RTX 3080",
+    "type": "Graphics Card",
+    "price": 699.99,
+    "description": "10GB GDDR6X Gaming Graphics Card",
+        "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD004",
+    "name": "Intel Core i7-10700K",
+    "type": "CPU",
+    "price": 379.99,
+    "description": "8-Core 3.8 GHz Desktop Processor",
+        "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD005",
+    "name": "ASUS ROG Strix Z490-E",
+    "type": "Motherboard",
+    "price": 299.99,
+    "description": "ATX Gaming Motherboard",
+        "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD006",
+    "name": "Cooler Master Hyper 212",
+    "type": "CPU Cooler",
+    "price": 39.99,
+    "description": "Air CPU Cooler with PWM Fan",
+        "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD007",
+    "name": "NZXT H510",
+    "type": "Case",
+    "price": 69.99,
+    "description": "ATX Mid-Tower PC Case",
+        "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD008",
+    "name": "Seagate BarraCuda 2TB",
+    "type": "HDD",
+    "price": 49.99,
+    "description": "3.5 Inch SATA 6Gb/s 7200 RPM",
+        "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD009",
+    "name": "Corsair RM750x",
+    "type": "Power Supply",
+    "price": 119.99,
+    "description": "750W Fully Modular Power Supply",
+        "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD010",
+    "name": "Kingston A2000 1TB",
+    "type": "SSD",
+    "price": 99.99,
+    "description": "NVMe M.2 Internal SSD",
+        "image": "../imgs/motivationImg.jpg"
+  }
+]

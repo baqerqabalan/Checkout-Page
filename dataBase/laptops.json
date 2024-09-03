@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PROD041",
+    "name": "Dell XPS 13",
+    "type": "Laptop",
+    "price": 999.99,
+    "description": "13.3 inch, Intel Core i7, 16GB RAM, 512GB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD042",
+    "name": "HP Spectre x360",
+    "type": "Laptop",
+    "price": 1099.99,
+    "description": "13.3 inch, Intel Core i7, 16GB RAM, 512GB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD043",
+    "name": "Apple MacBook Air",
+    "type": "Laptop",
+    "price": 1299.99,
+    "description": "13.3 inch, Apple M1, 8GB RAM, 256GB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD044",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "type": "Laptop",
+    "price": 1499.99,
+    "description": "14 inch, Intel Core i7, 16GB RAM, 512GB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD045",
+    "name": "Asus ZenBook 14",
+    "type": "Laptop",
+    "price": 899.99,
+    "description": "14 inch, AMD Ryzen 7, 16GB RAM, 1TB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD046",
+    "name": "Acer Swift 3",
+    "type": "Laptop",
+    "price": 699.99,
+    "description": "14 inch, Intel Core i5, 8GB RAM, 512GB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD047",
+    "name": "Microsoft Surface Laptop 4",
+    "type": "Laptop",
+    "price": 999.99,
+    "description": "13.5 inch, AMD Ryzen 5, 8GB RAM, 256GB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD048",
+    "name": "Samsung Galaxy Book Flex",
+    "type": "Laptop",
+    "price": 1399.99,
+    "description": "13.3 inch, Intel Core i7, 16GB RAM, 512GB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD049",
+    "name": "LG Gram 17",
+    "type": "Laptop",
+    "price": 1699.99,
+    "description": "17 inch, Intel Core i7, 16GB RAM, 1TB SSD",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD050",
+    "name": "Razer Blade Stealth 13",
+    "type": "Laptop",
+    "price": 1799.99,
+    "description": "13.3 inch, Intel Core i7, 16GB RAM, 512GB SSD, GTX 1650 Ti",
+    "image": "../imgs/motivationImg.jpg"
+  }
+]

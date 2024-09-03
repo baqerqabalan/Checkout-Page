@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PROD051",
+    "name": "Logitech MX Master 3",
+    "type": "Mouse",
+    "price": 99.99,
+    "description": "Wireless Advanced Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD052",
+    "name": "Razer DeathAdder V2",
+    "type": "Mouse",
+    "price": 69.99,
+    "description": "Wired Gaming Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD053",
+    "name": "SteelSeries Rival 600",
+    "type": "Mouse",
+    "price": 79.99,
+    "description": "Wired Gaming Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD054",
+    "name": "Corsair Dark Core RGB/SE",
+    "type": "Mouse",
+    "price": 89.99,
+    "description": "Wireless Gaming Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD055",
+    "name": "Apple Magic Mouse 2",
+    "type": "Mouse",
+    "price": 79.99,
+    "description": "Wireless Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD056",
+    "name": "Microsoft Arc Mouse",
+    "type": "Mouse",
+    "price": 69.99,
+    "description": "Wireless Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD057",
+    "name": "Logitech G Pro X Superlight",
+    "type": "Mouse",
+    "price": 149.99,
+    "description": "Wireless Gaming Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD058",
+    "name": "Razer Basilisk Ultimate",
+    "type": "Mouse",
+    "price": 169.99,
+    "description": "Wireless Gaming Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD059",
+    "name": "Logitech G502 Hero",
+    "type": "Mouse",
+    "price": 79.99,
+    "description": "Wired Gaming Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD060",
+    "name": "HyperX Pulsefire Haste",
+    "type": "Mouse",
+    "price": 49.99,
+    "description": "Wired Gaming Mouse",
+    "image": "../imgs/motivationImg.jpg"
+  }
+]

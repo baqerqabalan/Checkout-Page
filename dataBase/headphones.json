@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PROD021",
+    "name": "Sony WH-1000XM4",
+    "type": "Headphones",
+    "price": 349.99,
+    "description": "Wireless Noise-Cancelling Over-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD022",
+    "name": "Bose QuietComfort 35 II",
+    "type": "Headphones",
+    "price": 299.99,
+    "description": "Wireless Noise-Cancelling Over-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD023",
+    "name": "Apple AirPods Max",
+    "type": "Headphones",
+    "price": 549.99,
+    "description": "Wireless Over-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD024",
+    "name": "Sennheiser HD 450BT",
+    "type": "Headphones",
+    "price": 199.99,
+    "description": "Wireless Noise-Cancelling Over-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD025",
+    "name": "Beats Solo Pro",
+    "type": "Headphones",
+    "price": 299.99,
+    "description": "Wireless Noise-Cancelling On-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD026",
+    "name": "Jabra Elite 85h",
+    "type": "Headphones",
+    "price": 249.99,
+    "description": "Wireless Noise-Cancelling Over-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD027",
+    "name": "Anker Soundcore Life Q30",
+    "type": "Headphones",
+    "price": 79.99,
+    "description": "Wireless Noise-Cancelling Over-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD028",
+    "name": "Shure AONIC 50",
+    "type": "Headphones",
+    "price": 399.99,
+    "description": "Wireless Noise-Cancelling Over-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD029",
+    "name": "Bowers & Wilkins PX7",
+    "type": "Headphones",
+    "price": 399.99,
+    "description": "Wireless Noise-Cancelling Over-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD030",
+    "name": "Marshall Major IV",
+    "type": "Headphones",
+    "price": 149.99,
+    "description": "Wireless On-Ear Headphones",
+    "image": "../imgs/motivationImg.jpg"
+  }
+]

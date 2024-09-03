@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PROD081",
+    "name": "Bose Companion 2 Series III",
+    "type": "Speakers",
+    "price": 99.99,
+    "description": "Multimedia Speakers",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD082",
+    "name": "Logitech Z906",
+    "type": "Speakers",
+    "price": 399.99,
+    "description": "5.1 Surround Sound Speaker System",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD083",
+    "name": "Creative Pebble 2.0",
+    "type": "Speakers",
+    "price": 19.99,
+    "description": "Desktop Speakers",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD084",
+    "name": "Audioengine A5+",
+    "type": "Speakers",
+    "price": 399.99,
+    "description": "Wireless Desktop Speakers",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD085",
+    "name": "Klipsch ProMedia 2.1 THX",
+    "type": "Speakers",
+    "price": 149.99,
+    "description": "Computer Speaker System",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD086",
+    "name": "Harman Kardon SoundSticks III",
+    "type": "Speakers",
+    "price": 199.99,
+    "description": "2.1 Channel Multimedia Speaker System",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD087",
+    "name": "Razer Nommo Chroma",
+    "type": "Speakers",
+    "price": 149.99,
+    "description": "Gaming Speakers",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD088",
+    "name": "Edifier R1280T",
+    "type": "Speakers",
+    "price": 99.99,
+    "description": "Bookshelf Speakers",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD089",
+    "name": "Logitech G560 LIGHTSYNC",
+    "type": "Speakers",
+    "price": 199.99,
+    "description": "PC Gaming Speakers",
+    "image": "../imgs/motivationImg.jpg"
+  },
+  {
+    "id": "PROD090",
+    "name": "Bose SoundLink Revolve+",
+    "type": "Speakers",
+    "price": 299.99,
+    "description": "Portable Bluetooth Speaker",
+    "image": "../imgs/motivationImg.jpg"
+  }
+]
